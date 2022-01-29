@@ -1,5 +1,5 @@
-import java.util.*;
-public Class sum
+
+public class sum
 {
     public static void main(String args[])
     {
@@ -7,7 +7,7 @@ public Class sum
         a=10;
         b=20;
         c=a+b;
-        System.out.println(c);
+        System.out.println("sum is "+c);
         
     }
 }
